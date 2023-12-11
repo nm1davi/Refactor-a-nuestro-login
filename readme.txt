@@ -1,0 +1,2 @@
+Profe, al iniciar el código (npm run dev) ingresé a la página principal donde está la opción de registrarse o ingresar con GitHub. Si se crea una cuenta,
+la contraseña será haseada, y se podrá visualizar en la DB de mongo, en cambio, si inicia sesión con GitHub, y visualiza el user en la DB, verá que la contraseña no fue guardada
